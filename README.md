@@ -20,8 +20,8 @@ specialize in the parts of AI most people avoid.
 name    →  owen jr.
 handle  →  ok-oj
 field   →  artificial intelligence & machine learning
-focus   →  the hard problems. the deep end.
-env     →  linux. terminal only. no shortcuts.
+focus   →  applying AI/ML where it truly matters
+env     →  linux terminal
 ```
 
 ---
