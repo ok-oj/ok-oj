@@ -17,7 +17,7 @@ specialize in the parts of AI most people avoid.
 ### who i am
 
 ```
-name    →  owen jr.
+name    →  owen tsebe
 handle  →  ok-oj
 field   →  artificial intelligence & machine learning
 focus   →  applying AI/ML where it truly matters
