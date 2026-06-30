@@ -14,7 +14,7 @@ specialize in the parts of AI most people avoid.
 
 ---
 
-### who i am
+### who am i
 
 ```
 name    →  owen tsebe
